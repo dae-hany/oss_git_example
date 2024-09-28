@@ -35,15 +35,14 @@
 - 리포지토리 포크하기, Pull Request를 통한 기여 등의 주요 워크플로우 설명.
   
   > **예시:** Pull Request를 만들어 변경 사항 제출하기  
-  > **예시:** 오픈소스 리포지토리를 포크하여 기여 시작하기
-
+  >> **예시:** 오픈소스 리포지토리를 포크하여 기여 시작하기
+  
 [나의 GitHub 블로그](https://github.com/kkanuseobin)
 
 ---
 
 ### **3주차: Markdown**
-
-- Markdown 문법 및 활용법 소개.'=
+> Markdown 문법 및 활용법 소개.'=
 - Markdown을 이용한 문서 작성 및 ReadMe 파일 구성 방법.
 
 ---
