@@ -28,7 +28,7 @@
 - 분산 버전 관리 시스템으로서의 Git 소개.
 - Git의 주요 개념(저장소, 브랜치, 커밋, 병합 등) 설명.
 
-![Git Example](그림.png)
+![Git Example](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylBLPbcQ2F_nNvLTHq-_1LmqlUmeLM-d__g&s)
 
 #### **2-3 GitHub, Fork, Pull Request**
 - GitHub 플랫폼의 개요 및 오픈소스 프로젝트에서 협업하는 방법.
